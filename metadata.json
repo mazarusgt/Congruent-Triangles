@@ -1,0 +1,6 @@
+{
+  "name": "เรขาคณิต ม.2: ความเท่ากันทุกประการ",
+  "description": "สื่อการเรียนรู้เชิงโต้ตอบ เรขาคณิต ม.2 เรื่อง ความเท่ากันทุกประการของรูปสามเหลี่ยม (Triangle Congruence) พร้อมแบบจำลองการทับซ้อน แผนผังมโนทัศน์ และแบบฝึกหัดทบทวน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
